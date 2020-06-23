@@ -1,0 +1,200 @@
+Guest Name,Gender,Race,Industry,Season,Episode,Number of guests,Episode Length
+Tony Yayo,Male,Black,Music,1,1,1,5:20:00
+Anthony Rizzo,Male,White,Sports,1,2,1,10:18:00
+Machine Gun Kelly,Male,White,Music,1,3,1,15:17:00
+Gunplay,Male,Black,Music,1,4,1,14:58:00
+Ja Rule,Male,Black,Music,1,5,1,18:29:00
+B.o.B,Male,Black,Music,1,6,1,17:36:00
+Prince Amunkamara,Male,Black,Sports,1,7,1,17:36:00
+DJ Khaled,Male,Black,Music,1,8,1,17:06:00
+Chili Klaus,Male,White,Music,1,9,1,12:11:00
+Curren$y,Male,Black,Music,2,1,1,19:18:00
+Tinashe,Female,Black,Music,2,2,1,15:47:00
+Tommy Chong,Male,White,Actor,2,3,1,16:25:00
+T.J. Miller,Male,White,Actor,2,4,1,18:03:00
+Coolio,Male,Black,Music,2,5,1,16:39:00
+Joey Fatone,Male,White,Music,2,6,1,19:33:00
+Michael Rapaport,Male,White,Actor,2,7,1,14:59:00
+Key,Male,Black,Comedy,2,8,2,14:11:00
+Peele,Male,Black,Comedy,2,8,2,14:11:00
+Riff Raff,Male,White,Music,2,9,1,15:15:00
+Eddie Huang,Male,Asian,Chef,2,10,1,15:36:00
+Chris D'Elia,Male,White,Comedy,2,11,1,15:38:00
+Mike Epps,Male,Black,Comedy,2,12,1,13:23:00
+Jim Gaffigan,Male,White,Comedy,2,13,1,17:10:00
+Carly Aquilino,Female,White,Comedy,2,14,1,16:14:00
+Redman,Male,Black,Music,2,15,1,17:07:00
+Rob Gronkowski,Male,White,Sports,2,16,1,10:55:00
+Rob Corddry,Male,White,Actor,2,17,1,16:26:00
+Jeff Ross,Male,White,Comedy,2,18,1,15:43:00
+David Cross,Male,White,Actor,2,19,1,18:07:00
+Eric Andre,Male,Black,Comedy,2,20,1,19:05:00
+Joe Budden,Male,Black,Music,2,21,1,24:17:00
+Matty Matheson,Male,White,Chef,2,22,1,21:19:00
+RZA,Male,Black,Music,2,23,2,15:50:00
+Paul Banks,Male,White,Music,2,23,2,15:50:00
+Bert Kreischer,Male,White,Comedy,2,24,1,25:34:00
+YG,Male,Black,Music,2,25,1,20:12:00
+Jay Pharoah,Male,Black,Comedy,2,26,1,23:16:00
+Chili Klaus,Male,White,Music,2,27,1,8:06
+Harley Morenstein,Male,White,Actor,2,28,1,20:08:00
+Travis Kelce,Male,White,Sports,2,29,1,16:56:00
+Hasan Minhaj,Male,Asian/Indian Asian,Comedy,2,30,1,19:54:00
+Kevin Hart,Male,Black,Comedy,2,31,1,22:38:00
+Emily Oberg,Female,Asian,Actor,2,32,2,4:49:00
+Nadeska Alexis,Female,Black,Actor,2,32,2,4:49:00
+Martin Garrix,Male,White,Music,2,33,1,17:54:00
+Bobby Lee,Male,Asian,Actor,2,34,1,18:14:00
+Tony Hawk,Male,White,Sports,2,36,1,31:34:00
+Action Bronson,Male,White,Music,2,38,1,21:24:00
+T-Pain,Male,Black,Music,2,39,1,21:07:00
+Rachel Ray,Female,White,Chef,2,40,1,17:11:00
+Tom Colicchio,Male,White,Chef,2,41,1,17:53:00
+Post Malone,Male,White,Music,2,42,1,19:17:00
+N.O.R.E.,Male,Black,Music,2,43,1,22:17:00
+James Franco,Male,White,Actor,2,44,2,15:22:00
+Bryan Cranston,Male,White,Actor,2,44,2,15:22:00
+Rhett,Male,White,YouTube,2,47,2,17:04:00
+Link,Male,White,YouTube,2,47,2,17:04:00
+Padma Lakshmi,Female,Asian/Indian Asian,Chef,3,1,1,17:23:00
+"Joey ""CoCo"" Diaz",Male,Hispanic,Comedy,3,2,1,19:22:00
+Danny Brown,Male,Black,Music,3,3,1,19:40:00
+Ricky Gervais,Male,White,Comedy,3,4,1,22:10:00
+Charlie Day,Male,White,Actor,3,5,1,17:49:00
+Mac DeMarco,Male,White,Music,3,6,1,19:34:00
+Russell Brand,Male,White,Actor,3,7,1,21:48:00
+Charlie Sloth,Male,White,Music,3,8,1,18:51:00
+Kyle Kinane,Male,White,Comedy,3,9,1,20:00:00
+Dax Shepard,Male,White,Actor,3,10,1,21:46:00
+Ethan Klein,Male,White,YouTube,3,11,2,23:33:00
+Hila Klein,Female,White,YouTube,3,11,2,23:33:00
+Keke Palmer,Female,Black,Actor,3,12,1,19:18:00
+Charlamange,Male,Black,Actor,3,13,1,21:26:00
+DJ Snake,Male,Black,Music,3,14,1,18:51:00
+Guy Fieri,Male,White,Chef,3,15,1,22:46:00
+Kevin Love,Male,White,Sports,3,16,1,19:42:00
+Neil de Grasse Tyson,Male,Black,Actor,3,17,1,26:04:00
+Thomas Middleditch,Male,White,Actor,3,18,1,21:24:00
+Andy Cohen,Male,White,Actor,3,19,1,20:15:00
+Tom Arnold,Male,White,Comedy,3,20,1,17:20:00
+Coyote Peterson,Male,White,YouTube,3,21,1,20:15:00
+Nick Kroll,Male,White,Comedy,3,22,1,22:34:00
+Brett Baker,Male,White,Actor,3,23,1,23:07
+Seth Rogan,Male,White,Comedy,3,24,2,13:28:00
+Dominic Cooper,Male,White,Actor,3,24,2,13:28:00
+Cara Delevigne,Female,White,Actor,4,1,1,17:28:00
+Liam Payne,Male,White,Music,4,2,1,22:25:00
+Steve-O,Male,White,Actor,4,3,1,24:36:00
+Vince Staples,Male,Black,Music,4,4,1,19:51:00
+Adam Richman,Male,White,Actor,4,5,1,23:48:00
+ASAP Ferg,Male,Black,Music,4,6,1,22:23:00
+Kevin Durant,Male,Black,Sports,4,7,1,18:21:00
+Henry Rollins,Male,White,Music,4,8,1,23:30:00
+Dilon Francis,Male,White,Music,4,9,1,22:18:00
+Joji,Male,Asian,YouTube,4,10,1,22:13:00
+Wanda Sykes,Female,Black,Comedy,4,11,1,19:26:00
+Terry Crews,Male,Black,Actor,4,12,1,21:54:00
+Gary Vaynerchuk,Male,White,Actor,4,13,1,21:45:00
+Artie Lange,Male,White,Comedy,4,14,1,22:28:00
+Chris Jericho,Male,White,Actor,4,15,1,21:06:00
+Gabrielle Union,Female,Black,Actor,4,16,1,22:42:00
+Wale,Male,Black,Music,4,17,1,28:58:00
+Bob Saget,Male,White,Comedy,4,18,1,22:10:00
+Alexa Chung,Female,White,Actor,4,19,1,24:43:00
+Logic,Male,Black,Music,4,20,1,21:22:00
+Casey Neistat,Male,White,YouTube,4,21,1,22:38:00
+Chili Klaus,Male,White,Music,4,23,1,20:24:00
+Taraji P. Henson,Female,Black,Actor,5,1,1,19:25:00
+Sasha Banks,Female,Black,Actor,5,2,1,21:24:00
+Von Miller,Male,Black,Sports,5,3,1,20:05:00
+Rich Brian,Male,Asian,YouTube,5,4,1,22:10:00
+Hannibal Buress,Male,Black,Comedy,5,5,1,24:03:00
+Michael B. Jordan,Male,Black,Actor,5,6,1,22:27:00
+Ty Burrell,Male,White,Actor,5,7,1,20:55:00
+Charlize Theron,Female,White,Actor,5,8,1,23:26:00
+Adam Rippon,Male,White,Sports,5,9,1,21:02:00
+Gabriel Iglesias,Male,Hispanic,Comedy,5,10,1,18:41:00
+Shawn Mendes,Male,White,Music,5,11,1,23:21:00
+Philip DeFranco,Male,White,YouTube,5,12,1,23:43:00
+Trick Daddy,Male,Black,Music,5,13,1,23:23:00
+Tyra Banks,Female,Black,Actor,5,14,1,27:16:00
+Alton Brown,Male,White,Chef,5,15,1,24:30:00
+John Mayer,Male,White,Music,5,16,1,26:22:00
+Johnny Knoxville,Male,White,Actor,6,1,1,21:03:00
+Natalie Portman,Female,White,Actor,6,2,1,19:04:00
+Marques Brownlee,Male,Black,YouTube,6,3,1,24:07:00
+Joel Embiid,Male,Black,Sports,6,4,1,22:05
+Tom Segura,Male,White,Comedy,6,5,1,26:15:00
+Joji,Male,Asian,Music,6,6,2,26:40:00
+Rich Brian,Male,Asian,Music,6,6,2,26:40:00
+Wiz Khalifa,Male,Black,Music,6,7,1,23:21:00
+Al Roker,Male,Black,Actor,6,8,1,24:13:00
+Michael Cera,Male,White,Actor,6,9,1,24:29:00
+Issa Rae,Female,Black,Actor,6,10,1,23:49:00
+Rhett,Male,White,YouTube,6,11,2,28:26:00
+Link,Male,White,YouTube,6,11,2,28:26:00
+Jeff Goldblum,Male,White,Actor,6,12,1,32:35:00
+Eddie Huang,Male,Asian,Chef,6,13,1,22:57:00
+Chrissy Teigen,Female,Asian,Actor,7,1,1,24:49:00
+Jack Black,Male,White,Music,7,2,2,24:59:00
+Kyle Gass,Male,White,Music,7,2,2,24:59:00
+Anderson .Pak,Male,Black,Music,7,3,1,25:01:00
+Adam Carolla,Male,White,Comedy,7,4,1,27:47:00
+Lil Yachty,Male,Black,Music,7,5,1,24:03:00
+E-40,Male,Black,Music,7,6,1,23:56:00
+Lilly Singh,Female,Asian/Indian Asian,YouTube,7,7,1,22:48:00
+Blake Griffin,Male,Black,Sports,7,8,1,23:38:00
+Bill Burr,Male,White,Comedy,7,9,1,27:17:00
+Pete Holmes,Male,White,Comedy,7,10,1,25:48:00
+Vanessa Hudgens,Female,Asian,Actor,7,11,1,26:17:00
+Weird Al Yankovic,Male,White,Music,7,12,1,23:09:00
+Gordon Ramsey,Male,White,Chef,8,1,1,31:01:00
+Abbi Jacobson,Female,White,Actor,8,2,2,25:07:00
+Illana Glazer,Female,Black,Actor,8,2,2,25:07:00
+Seth Meyers,Male,White,Comedy,8,3,1,25:54:00
+Ken Jeong,Male,Asian,Actor,8,4,1,26:51:00
+Desus Nice,Male,Black,YouTube,8,5,2,28:54:00
+The Kid Mero,Male,Hispanic,YouTube,8,5,2,28:54:00
+Offset,Male,Black,Music,8,6,1,22:41:00
+Billie Eilish,Female,White,Music,8,7,1,25:27:00
+Shaq,Male,Black,Sports,8,8,1,31:10:00
+Theo Von,Male,White,Comedy,8,9,1,24:19:00
+Jimmy Butler,Male,Black,Sports,8,10,1,27:02:00
+Chelsea Handler,Female,White,Comedy,8,11,1,26:08:00
+Scarlett Johansson,Female,White,Actor,8,12,1,26:51:00
+Nick Jonas,Male,White,Music,9,1,3,27:31:00
+Kevin Jonas,Male,White,Music,9,1,3,27:31:00
+Joe Jonas,Male,White,Music,9,1,3,27:31:00
+Halle Berry,Female,Black,Actor,9,2,1,24:49:00
+Trevor Noah,Male,Black,Comedy,9,3,1,22:38:00
+Aubrey Plaza,Female,White,Actor,9,4,1,24:48:00
+Schoolboy Q,Male,Black,Music,9,5,1,26:01:00
+Adam Devine,Male,White,Actor,9,6,1,27:07:00
+Kumail Nanjiani,Male,Asian/South Asian,Actor,9,7,1,26:44:00
+Binging with Babish,Male,White,YouTube,9,8,1,28:22:00
+Juice WRLD,Male,Black,Music,9,9,1,20:37:00
+Idris Elba,Male,Black,Actor,9,10,1,29:46:00
+Kristen Bell,Female,White,Actor,9,11,1,26:40:00
+Stone Cold Steve Austin,Male,White,Actor,9,12,1,30:44:00
+Shia LaBeaouf,Male,White,Actor,10,1,1,29:09:00
+Ashton Kutcher,Male,White,Actor,10,2,1,30:18:00
+Noel Gallagher,Male,White,Music,10,3,1,26:47:00
+Liza Koshy,Female,Black,YouTube,10,4,1,25:23:00
+Paul Rudd,Male,White,Actor,10,5,1,30:18:00
+Maisie Williams,Female,White,Actor,10,6,1,25:00:00
+Nick Offerman,Male,White,Actor,10,7,1,29:04:00
+DaBaby,Male,Black,Music,10,8,1,20:08:00
+Kristen Stewart,Female,White,Actor,10,9,1,24:24:00
+Chance the Rapper,Male,Black,Music,10,10,1,25:19:00
+Brad Leone,Male,White,YouTube,10,11,1,28:15:00
+John Boyega,Male,Black,Actor,10,12,1,26:59:00
+Margot Robbie,Female,White,Actor,11,1,1,24:51:00
+Zoe Kravitz,Female,Black,Actor,11,2,1,24:50:00
+Will Ferrell,Male,White,Actor,11,3,1,21:46:00
+Halsey,Female,White,Music,11,4,1,26:17:00
+Pete Davidson,Male,White,Actor,11,5,1,25:49:00
+David Dobrik,Male,White,YouTube,11,6,1,25:17:00
+Big Sean,Male,Black,Music,11,7,1,24:16:00
+Zac Efron,Male,Black,Actor,11,8,1,28:14:00
+Justin Timberlake,Male,White,Music,11,9,1,29:38:00
+Bert Kreischer,Male,White,Comedy,11,10,1,26:37:00
